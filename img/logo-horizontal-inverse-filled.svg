@@ -1,13 +1,13 @@
 <svg width="980" height="100" viewBox="0 0 980 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="0.5" y="0.5" width="99" height="99" stroke="#808080"/>
-<rect x="110.5" y="0.5" width="99" height="99" stroke="#808080"/>
-<rect x="220.5" y="0.5" width="99" height="99" stroke="#808080"/>
-<rect x="330.5" y="0.5" width="99" height="99" stroke="#808080"/>
-<rect x="440.5" y="0.5" width="99" height="99" stroke="#808080"/>
-<rect x="550.5" y="0.5" width="99" height="99" stroke="#808080"/>
-<rect x="660.5" y="0.5" width="99" height="99" stroke="#808080"/>
-<rect x="770.5" y="0.5" width="99" height="99" stroke="#808080"/>
-<rect x="880.5" y="0.5" width="99" height="99" stroke="#808080"/>
+<rect x="0.5" y="0.5" width="99" height="99" stroke="#BFBFBF"/>
+<rect x="110.5" y="0.5" width="99" height="99" stroke="#BFBFBF"/>
+<rect x="220.5" y="0.5" width="99" height="99" stroke="#BFBFBF"/>
+<rect x="330.5" y="0.5" width="99" height="99" stroke="#BFBFBF"/>
+<rect x="440.5" y="0.5" width="99" height="99" stroke="#BFBFBF"/>
+<rect x="550.5" y="0.5" width="99" height="99" stroke="#BFBFBF"/>
+<rect x="660.5" y="0.5" width="99" height="99" stroke="#BFBFBF"/>
+<rect x="770.5" y="0.5" width="99" height="99" stroke="#BFBFBF"/>
+<rect x="880.5" y="0.5" width="99" height="99" stroke="#BFBFBF"/>
 <path d="M28.9673 71L47.9873 29H53.9273L73.0073 71H66.7073L49.7273 32.36H52.1273L35.1473 71H28.9673ZM37.0673 60.5L38.6873 55.7H62.3273L64.0673 60.5H37.0673Z" fill="white"/>
 <path d="M146.488 71V29H152.488V65.78H175.228V71H146.488Z" fill="white"/>
 <path d="M248.648 71V29H253.568L272.408 60.74H269.768L288.368 29H293.288L293.348 71H287.588L287.528 38.06H288.908L272.348 65.9H269.588L252.908 38.06H254.408V71H248.648Z" fill="white"/>

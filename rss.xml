@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Digital art and communication]]></description><link>https://almotasim.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jan 2025 14:00:25 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Digital art and communication]]></description><link>https://almotasim.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Feb 2025 07:03:30 GMT</lastBuildDate><item><title><![CDATA[Fish game]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
+chicken eggs, though the…]]></description><link>https://almotasim.com/es/sketches/fishgame/</link><guid isPermaLink="false">https://almotasim.com/es/sketches/fishgame/</guid><pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
+chicken eggs, though the taste and texture will be somewhat different, and the
+egg yolk will be less rich.&quot;?
+(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Redfern Bodies]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
+chicken eggs, though the…]]></description><link>https://almotasim.com/en/sketches/redfern-bodies/</link><guid isPermaLink="false">https://almotasim.com/en/sketches/redfern-bodies/</guid><pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
+chicken eggs, though the taste and texture will be somewhat different, and the
+egg yolk will be less rich.&quot;?
+(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fish game]]></title><description><![CDATA[This little game was produced in two days, during the Melbourne Global Game Jam event, with a team of seven programmers and artists. The…]]></description><link>https://almotasim.com/en/sketches/fishgame/</link><guid isPermaLink="false">https://almotasim.com/en/sketches/fishgame/</guid><pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This little game was produced in two days, during the Melbourne &lt;a href=&quot;https://globalgamejam.org/&quot; target=&quot;_blank&quot;&gt;Global Game Jam&lt;/a&gt; event, with a team of seven programmers and artists.&lt;/p&gt;
+&lt;p&gt;The framework is Unity, and the theme for the Jam was &quot;Bubbles&quot;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 335px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/db9b3eee787695118d130f822eb30fc2/2a634/fishgame1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwT/2gAMAwEAAhADEAAAARLJqhhQY//EABgQAAMBAQAAAAAAAAAAAAAAAAABAhEx/9oACAEBAAEFAmaV2kYikj//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8BrH//xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAgBAgEBPwFK/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERIRAxUWH/2gAIAQEAAT8helbPA3QmFilaP//aAAwDAQACAAMAAAAQ7w//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QDsrb/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EBWDL//EAB4QAQABBAIDAAAAAAAAAAAAAAEAESExQVFxYZGx/9oACAEBAAE/EBvZMHUHSoArlv8AY9F29+WYNt2ytkfbFHtt5Z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Fish Game screenshot&quot;
+        title=&quot;&quot;
+        src=&quot;/static/db9b3eee787695118d130f822eb30fc2/2a634/fishgame1.jpg&quot;
+        srcset=&quot;/static/db9b3eee787695118d130f822eb30fc2/ff44c/fishgame1.jpg 158w,
+/static/db9b3eee787695118d130f822eb30fc2/a6688/fishgame1.jpg 315w,
+/static/db9b3eee787695118d130f822eb30fc2/2a634/fishgame1.jpg 335w&quot;
+        sizes=&quot;(max-width: 335px) 100vw, 335px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Black Tar City]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
+chicken eggs, though the…]]></description><link>https://almotasim.com/en/sketches/blacktarcity/</link><guid isPermaLink="false">https://almotasim.com/en/sketches/blacktarcity/</guid><pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
+chicken eggs, though the taste and texture will be somewhat different, and the
+egg yolk will be less rich.&quot;?
+(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Atomix]]></title><description><![CDATA[Recreation in ReactJS of classic DOS/Commodore game Atomix Play it below or open in a new window]]></description><link>https://almotasim.com/en/sketches/atomix/</link><guid isPermaLink="false">https://almotasim.com/en/sketches/atomix/</guid><pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eeadd450d0c268ef165816ad2047c0a8/356e8/atomix-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.53164556962025%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB49MzJsOT/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAEkIRE//aAAgBAQABBQLWfINOCWKhGNP/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPwGn/8QAGBABAQADAAAAAAAAAAAAAAAAAQAQEWH/2gAIAQEABj8CuJk1F//EABsQAAIDAAMAAAAAAAAAAAAAAAABESFBMVGx/9oACAEBAAE/IVy6HabopDvJxFPSpKMGh+Bxkn//2gAMAwEAAgADAAAAEE/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAh/9oACAEDAQE/EBCy/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAIAQIBAT8QREDf/8QAHBABAQACAwEBAAAAAAAAAAAAAREAITFBsVHh/9oACAEBAAE/EC3oppRB/DFA6glQNrru6xVCuAop8rh0A3y84tADXYfcaGyVgHmf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Atomix CSS screenshot&quot;
+        title=&quot;&quot;
+        src=&quot;/static/eeadd450d0c268ef165816ad2047c0a8/828fb/atomix-1.jpg&quot;
+        srcset=&quot;/static/eeadd450d0c268ef165816ad2047c0a8/ff44c/atomix-1.jpg 158w,
+/static/eeadd450d0c268ef165816ad2047c0a8/a6688/atomix-1.jpg 315w,
+/static/eeadd450d0c268ef165816ad2047c0a8/828fb/atomix-1.jpg 630w,
+/static/eeadd450d0c268ef165816ad2047c0a8/0ede0/atomix-1.jpg 945w,
+/static/eeadd450d0c268ef165816ad2047c0a8/3ac88/atomix-1.jpg 1260w,
+/static/eeadd450d0c268ef165816ad2047c0a8/356e8/atomix-1.jpg 1512w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Recreation in ReactJS of classic DOS/Commodore game &lt;a href=&quot;https://en.wikipedia.org/wiki/Atomix_(video_game)&quot; target=&quot;_blank&quot;&gt;Atomix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Play it below or open in a &lt;a href=&quot;https://kafkiacode.github.io/atomix-js/&quot; target=&quot;_blank&quot;&gt;new window&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 66.66666666666666%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://kafkiacode.github.io/atomix-js/&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[3D Snake]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
+chicken eggs, though the…]]></description><link>https://almotasim.com/en/sketches/3d-snake/</link><guid isPermaLink="false">https://almotasim.com/en/sketches/3d-snake/</guid><pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
+chicken eggs, though the taste and texture will be somewhat different, and the
+egg yolk will be less rich.&quot;?
+(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Archivos Chile (Map of Executed for Political Reasons)]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
+chicken eggs, though the…]]></description><link>https://almotasim.com/en/projects/archivoschile/</link><guid isPermaLink="false">https://almotasim.com/en/projects/archivoschile/</guid><pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
+chicken eggs, though the taste and texture will be somewhat different, and the
+egg yolk will be less rich.&quot;?
+(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Archivos Chile (Mapa de Ejecutados Políticos)]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
+chicken eggs, though the…]]></description><link>https://almotasim.com/es/projects/archivoschile/</link><guid isPermaLink="false">https://almotasim.com/es/projects/archivoschile/</guid><pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
+chicken eggs, though the taste and texture will be somewhat different, and the
+egg yolk will be less rich.&quot;?
+(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Archivo Interactivo (Cartografías de la Memoria)]]></title><description><![CDATA[Atomix CSS screenshot Recreation in ReactJS of classic DOS/Commodore game Atomix Play it below or open in a new window]]></description><link>https://almotasim.com/en/projects/cdlmai/</link><guid isPermaLink="false">https://almotasim.com/en/projects/cdlmai/</guid><pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;./atomix-1.jpg&quot; alt=&quot;Atomix CSS screenshot&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Recreation in ReactJS of classic DOS/Commodore game &lt;a href=&quot;https://en.wikipedia.org/wiki/Atomix_(video_game)&quot; target=&quot;_blank&quot;&gt;Atomix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Play it below or open in a &lt;a href=&quot;https://kafkiacode.github.io/atomix-js/&quot; target=&quot;_blank&quot;&gt;new window&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 66.66666666666666%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://kafkiacode.github.io/atomix-js/&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://almotasim.com/es/texts/new-beginnings/</link><guid isPermaLink="false">https://almotasim.com/es/texts/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
@@ -19,13 +124,13 @@ made herself on the way.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
 view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
-&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
+&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
 Lane. Pityful a rhetoric question ran over her cheek, then she continued her
 way. On her way she met a copy.&lt;/p&gt;
 &lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
 &lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
 few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
+&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
 they abused her for their projects again and again. And if she hasn’t been
 rewritten, then they are still using her.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -111,13 +216,13 @@ made herself on the way.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
 view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
-&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
+&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
 Lane. Pityful a rhetoric question ran over her cheek, then she continued her
 way. On her way she met a copy.&lt;/p&gt;
 &lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
 &lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
 few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
+&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
 they abused her for their projects again and again. And if she hasn’t been
 rewritten, then they are still using her.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -182,34 +287,10 @@ would be the word &quot;and&quot; and the Little Blind Text should turn around a
 to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fish game]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://almotasim.com/es/sketches/fishgame/</link><guid isPermaLink="false">https://almotasim.com/es/sketches/fishgame/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.&quot;?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Archivos Chile (Mapa de Ejecutados Políticos)]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://almotasim.com/es/projects/archivoschile/</link><guid isPermaLink="false">https://almotasim.com/es/projects/archivoschile/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.&quot;?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fish game]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://almotasim.com/en/sketches/fishgame/</link><guid isPermaLink="false">https://almotasim.com/en/sketches/fishgame/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.&quot;?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Archivos Chile (Map of Executed for Political Reasons)]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://almotasim.com/en/projects/archivoschile/</link><guid isPermaLink="false">https://almotasim.com/en/projects/archivoschile/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.&quot;?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://almotasim.com/es/texts/hello-world/</link><guid isPermaLink="false">https://almotasim.com/es/texts/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://almotasim.com/es/texts/hello-world/</link><guid isPermaLink="false">https://almotasim.com/es/texts/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I&apos;m sure I&apos;ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here&apos;s a great quote from this Wikipedia on
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
 eggs in brine, or packing each egg in damp, salted charcoal. In Asian
@@ -280,7 +361,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot; target=&quot;_blank&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is a paragraph.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h1&gt;Header 1&lt;/h1&gt;
@@ -400,9 +481,9 @@ Header 2
 - - -
 
 ---------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot; target=&quot;_blank&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.com&quot; target=&quot;_blank&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot; target=&quot;_blank&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is [an example](http://example.com &quot;Example&quot;) link.
 
 [This link](http://example.com) has no title attr.
@@ -427,7 +508,7 @@ __double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://via.placeholder.com/200x50 &quot;Image Title&quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://almotasim.com/en/texts/hello-world/</link><guid isPermaLink="false">https://almotasim.com/en/texts/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I&apos;m sure I&apos;ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here&apos;s a great quote from this Wikipedia on
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
 eggs in brine, or packing each egg in damp, salted charcoal. In Asian
@@ -498,7 +579,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot; target=&quot;_blank&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is a paragraph.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h1&gt;Header 1&lt;/h1&gt;
@@ -618,9 +699,9 @@ Header 2
 - - -
 
 ---------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot; target=&quot;_blank&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.com&quot; target=&quot;_blank&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot; target=&quot;_blank&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is [an example](http://example.com &quot;Example&quot;) link.
 
 [This link](http://example.com) has no title attr.
